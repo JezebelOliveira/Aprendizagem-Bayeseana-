@@ -1,3 +1,2 @@
-# Aprendizagem-Bayeseana-
+# Machine Learning-
 
-Um breve exemplo de aplicação de aprendizagem Bayeseana usando algorítimo Naive Bayes.
